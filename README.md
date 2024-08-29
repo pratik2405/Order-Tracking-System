@@ -38,3 +38,15 @@ The Order Tracking System is a Java-based application that leverages JDBC for da
 
 **Customer :** Log in to purchase products, view current and past order details.
 
+## Database Schema :-
+
+**Table Name :-**  Description
+ 
+**Customer :-** Store customer information like name,phone no,address,total order.
+ 
+**Orderdetails :-**	Store all order details like order id, customer id,product id, delivery date, order status.
+ 
+**Product :-** Store product details like name, price,supplier id.
+ 
+**Suplier :-** Stores supplier details.
+
