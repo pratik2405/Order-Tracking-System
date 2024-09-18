@@ -18,6 +18,7 @@ The Order Tracking System is a Java-based application that leverages JDBC for da
 ## Database :-
 
 **Database Management System :**  MySQL
+**Database tables :** Customer,Orderdetails,Product, Supplier. 
 
 **Triggers Implemented :** Order Count Update : Automatically increments the total order count when a customer buys a product and decrements it upon product deletion.
 
